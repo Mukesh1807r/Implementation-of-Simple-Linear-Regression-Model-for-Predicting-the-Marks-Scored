@@ -19,6 +19,9 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: Mukesh R 
 RegisterNumber: 212224240098
 
+```
+
+```
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 import numpy as np
 import pandas as pd
