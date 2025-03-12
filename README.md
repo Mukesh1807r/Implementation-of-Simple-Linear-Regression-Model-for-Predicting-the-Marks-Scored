@@ -67,6 +67,29 @@ plt.show()
 ```
 
 ## Output:
+![image](https://github.com/user-attachments/assets/19ac9d7a-0d86-4081-bdcb-9bcbb50a5337)
+
+![image](https://github.com/user-attachments/assets/5ff6a529-0096-4296-a3d3-586eed6ae0a9)
+
+![image](https://github.com/user-attachments/assets/5682ff45-e898-4aa5-9a74-f3ed0b582493)
+
+![image](https://github.com/user-attachments/assets/994e9cf7-759d-4941-b82a-ec5a8693e51c)
+
+![image](https://github.com/user-attachments/assets/e41633ab-0da4-4083-a4f3-a03ab00decea)
+
+![image](https://github.com/user-attachments/assets/f244eb41-6b32-44b1-ae8b-c771d1b9f9e1)
+
+![image](https://github.com/user-attachments/assets/563cae76-333b-43bf-8d07-922d7abf9df2)
+
+![image](https://github.com/user-attachments/assets/c52d646d-3caf-4d76-8580-d605c5d1d907)
+
+
+
+
+
+
+
+
 
 
 ## Result:
