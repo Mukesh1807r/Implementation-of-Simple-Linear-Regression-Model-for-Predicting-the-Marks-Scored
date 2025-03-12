@@ -17,13 +17,12 @@ To write a program to predict the marks scored by a student using the simple lin
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: 
-RegisterNumber:  
+Developed by: Mukesh R 
+RegisterNumber: 212224240098  
 */
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
 
 
 ## Result:
